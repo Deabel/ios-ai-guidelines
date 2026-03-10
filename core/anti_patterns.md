@@ -2,12 +2,8 @@
 
 Avoid the following:
 
-Massive ViewModels
-
-Networking inside Views
-
-Global singletons
-
-Mixing Combine and async/await in the same logic
-
-Business logic inside SwiftUI Views
+1. Massive ViewModels
+2. Networking inside Views
+3. Global singletons
+4. Mixing Combine and async/await in the same logic
+5. Business logic inside SwiftUI Views

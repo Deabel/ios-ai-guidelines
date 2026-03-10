@@ -17,3 +17,5 @@ Async functions must start with verbs.
 Examples:
 
 fetchUsers() loadProfile() updateSettings()
+
+Naming should follow Apple's programming guidelines.

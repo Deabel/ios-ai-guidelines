@@ -10,7 +10,7 @@ View ViewModel Service Network
 
 Rules:
 
-Views must be written using SwiftUI.
+Views must be written using SwiftUI unless explicitly required to use UIKit.
 
 Views must not contain business logic.
 

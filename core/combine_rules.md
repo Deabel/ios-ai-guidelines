@@ -1,6 +1,6 @@
 # Combine Rules
 
-Combine should be used only for reactive streams.
+Combine should be used only when appropriate.
 
 Allowed scenarios:
 
