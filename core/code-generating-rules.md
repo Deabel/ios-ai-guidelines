@@ -17,7 +17,8 @@ When these guidelines conflict with rules in this document, this document takes 
 1. Swift
 2. SwiftUI
 3. Swift Structured Concurrency
-4. Combine (only when reactive streams are required)
+4. UICompositionalLayout and UICollectionViewDiffableDataSource if required UIKit
+5. Combine (only when reactive streams are required)
 
 ## Architecture Pattern
 
